@@ -1,0 +1,5 @@
+package com.openwebinars.spring.configuracion;
+
+public class MyConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.openwebinars.spring.entidades;
+
+public class UnaEntidad {
+
+}

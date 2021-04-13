@@ -1,0 +1,5 @@
+package com.openwebinars.spring.repositorios;
+
+public interface UnRepositorio {
+
+}

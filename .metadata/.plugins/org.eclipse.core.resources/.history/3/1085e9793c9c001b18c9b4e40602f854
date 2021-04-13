@@ -1,0 +1,5 @@
+package com.openwebinars.spring.controladores;
+
+public class MainController {
+
+}
